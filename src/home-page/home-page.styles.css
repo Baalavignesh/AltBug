@@ -1,0 +1,46 @@
+.homepage {
+    background-color: #3C0E99;
+    color: white;   
+}
+
+.intro-div {
+    align-items: center;
+}
+
+.intro-title {
+    font-size: 3rem;
+    font-weight: 800;
+}
+
+.intro-button {
+    border: none;
+    font-size: 16px;
+    background-color: #742cff;
+    color: white;
+    padding: 1rem;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.intro-image {
+    width: 80%;
+    margin: auto;
+    float: right;
+}
+
+.feature-title {
+    font-size: 3rem;
+    font-weight: 800;
+    text-align: center;
+}
+
+.feature-content {
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+
+.feature-tile-content {
+    width: 300px;
+}

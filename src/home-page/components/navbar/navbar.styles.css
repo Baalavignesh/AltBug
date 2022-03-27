@@ -1,0 +1,39 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-logo {
+  padding: 8px 0px 8px 2rem;
+}
+
+.nav-list {
+  display: flex; 
+  text-align: center;
+  flex-grow: 1;
+  justify-content: flex-end;
+  padding: 8px;
+  padding-right: 3rem;
+}
+
+.nav-item {
+  width: 80px;
+  list-style: none;
+  padding: 1rem;
+  font-weight: 600;
+  border-bottom: 2px solid transparent;
+  transition-duration: 300ms;
+  cursor: pointer;
+  color: white;
+}
+
+.nav-item:hover {
+  border-bottom: 10px solid white;
+  border-radius: 8px;
+
+}
+
+.signup-button {
+  background-color: #742cff;
+  border-radius: 8px;
+}

@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif !important;
+  /* font-family: "Montserrat", sans-serif;
+  font-family: "Nunito", sans-serif; */
+}
+
+.bigHeading {
+  font-size: 38px;
+  font-weight: 600;
+}
+
+.medHeading {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.description {
+  font-size: 1rem;
+}
+
+.miniDescription {
+  font-size: 0.7rem;
+}
+
+h6 {
+  padding: 0px;
+  margin: 8px;
+  font-weight: normal;
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Secure",
+        "content": "We strictly only deal with vendors that provide top notch security infrastructure.",
+        "icon": "fa-solid fa-shield"
+    },
+    {
+        "title": "24/7 Support",
+        "content": "Lorem ipsum donor amet siti ceali ut enim ad minim veniam, quis nostrud.",
+        "icon": "fa-solid fa-shield"
+    },
+    {
+        "title": "Learn Fast",
+        "content": "Lorem ipsum donor amet siti ceali ut enim ad minim veniam, quis nostrud.",
+        "icon": "fa-solid fa-shield"
+    },
+    {
+        "title": "Earn Rewards",
+        "content": "Lorem ipsum donor amet siti ceali ut enim ad minim veniam, quis nostrud.",
+        "icon": "fa-solid fa-shield"
+    },
+    {
+        "title": "Community",
+        "content": "Lorem ipsum donor amet siti ceali ut enim ad minim veniam, quis nostrud.",
+        "icon": "fa-solid fa-shield"
+    },
+    {
+        "title": "Reliable",
+        "content": "Lorem ipsum donor amet siti ceali ut enim ad minim veniam, quis nostrud.",
+        "icon": "fa-solid fa-shield"
+    }
+]
